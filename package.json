@@ -1,8 +1,8 @@
 {
-  "name": "ionic7-angular-sqlite-starter",
-  "version": "0.0.3",
-  "description": "Ionic7/Angular SQLite Starter Application",
-  "author": "Jean Pierre Quéau",
+  "name": "personal-budget-app",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Maxime Dufault",
   "license": "MIT",
   "homepage": "./",
   "scripts": {
@@ -83,12 +83,5 @@
     "rimraf": "^5.0.1",
     "ts-node": "^8.3.0",
     "typescript": "~5.0.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jepiqueau/ionic7-angular-sqlite-starter.git"
-  },
-  "bugs": {
-    "url": "https://github.com/jepiqueau/ionic7-angular-sqlite-starter.git/issues"
   }
 }

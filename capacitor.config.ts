@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'com.jeep.app.ionic7.angular.sqlite',
-  appName: 'ionic7-angular-sqlite-starter',
+  appId: 'com.jeep.app.personnal.budget.app',
+  appName: 'personal-budget-app',
   webDir: 'www',
   server: {
     androidScheme: 'https'
@@ -11,7 +11,7 @@ const config: CapacitorConfig = {
     CapacitorSQLite: {
       iosDatabaseLocation: 'Library/CapacitorDatabase',
       iosIsEncryption: true,
-      iosKeychainPrefix: 'ionic7-angular-sqlite-starter',
+      iosKeychainPrefix: 'personal-budget-app',
       iosBiometric: {
         biometricAuth: false,
         biometricTitle : "Biometric login for capacitor sqlite"
